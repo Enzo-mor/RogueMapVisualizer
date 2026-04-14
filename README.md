@@ -13,6 +13,6 @@ L'application permet d'afficher ces étapes progressivement et d'activer ou dés
 
 ## Lancer l'application
 
-1. Télécharger et extraire le fichier ZIP
+1. Télécharger et extraire le fichier ZIP de la dernière release
 2. Ouvrir le dossier `Release`
 3. Lancer le fichier : RogueMapVisualizer.exe
